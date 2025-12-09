@@ -1,3 +1,6 @@
+/* eslint no-console: [,{ allow: ["warn", "log", "error"] }] */
 'use strict';
 
-// write your code here
+const table = document.querySelector('table');
+
+console.log(table);
